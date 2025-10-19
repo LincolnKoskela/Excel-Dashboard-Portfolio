@@ -7,11 +7,11 @@ Each project focuses on a unique topic and demonstrates data cleaning, visualiza
 
 | Project | Description | Preview |
 |----------|--------------|----------|
-| [Washington EV Dashboard](./washington-ev-dashboard/README.md) | Analyzes Washington State electric vehicle registrations, trends, and range data. | ![WA EV Preview](./washington-ev-dashboard/dashboard_preview.png) |
+| [BMW Sales Performance](./washington-ev-dashboard/README.md) | Analyzes BMW Global Sales 2010-2024 by year, regions, YoY Growth and by Model. | ![BMW Sales Preview](./washington-ev-dashboard/dashboard_preview.png) |
 | (coming soon) | ... | ... |
 
 ## Tools Used
-- Microsoft Excel (PivotTables, Slicers, Conditional Formatting)
+- Microsoft Excel (Power Query, PivotTables, Slicers, Conditional Formatting)
 - GitHub for version control & sharing
 
 ## About
