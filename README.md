@@ -7,7 +7,7 @@ Each project focuses on a unique topic and demonstrates data cleaning, visualiza
 
 | Project | Description | Preview |
 |----------|--------------|----------|
-| [BMW Sales Performance](./washington-ev-dashboard/README.md) | Analyzes BMW Global Sales 2010-2024 by year, regions, YoY Growth and by Model. | ![BMW Sales Preview](./washington-ev-dashboard/dashboard_preview.png) |
+| [BMW Sales Performance](BMW Sales Dashboard.xlsx) | Analyzes BMW Global Sales 2010-2024 by year, region, YoY Growth and by Model. | ![BMW Sales Preview](./1.png) |
 | (coming soon) | ... | ... |
 
 ## Tools Used
