@@ -20,7 +20,9 @@ areas are practicing visuals and design, using power query and power bi, and und
 ## Dataset Description
 
 **Source:** Kaggle -> BMW Global Sales Dataset (2010-2024)
+
 **Rows:** apx. 50,000
+
 **Format:** Aggregate summary data (not individual transactions)
 
 Each row represents a configuration group, not a single sale. Meaning each record shows an average profile
@@ -54,6 +56,7 @@ of vehicles with matching specs, along with the total number of units sold.
 - Power Query for cleaning and aggregating
 - PivotTables and formulas for metrics
 - Charts for trends
+
 **Planning**
   - Power Bi for interactive dashboard and map visuals
 
@@ -70,5 +73,7 @@ This project was built as a part of a personal project of mine to demonstrate:
 
 ## Contact
 **Author:** Lincoln Koskela
+
 **Github:** @LincolnKoskela
+
 **Tools:** Excel, Power Query
