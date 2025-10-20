@@ -7,7 +7,7 @@ Each project focuses on a unique topic and demonstrates data cleaning, visualiza
 
 | Project | Description | Preview |
 |----------|--------------|----------|
-| [BMW Sales Performance](BMW Sales Dashboard (2010-2024).xlsx) | Analyzes BMW Global Sales 2010-2024 by year, region, YoY Growth and by Model. | ![BMW Sales Preview](./1.png) |
+| [BMW Sales Performance](portfolio/bmw-sales/BMW%20Sales%20Dashboard%202010-2024.xlsx) | Analyzes BMW Global Sales 2010–2024 by year, region, YoY Growth, and Model. | ![Preview](portfolio/bmw-sales/1.png) |
 | (coming soon) | ... | ... |
 
 ## Tools Used
